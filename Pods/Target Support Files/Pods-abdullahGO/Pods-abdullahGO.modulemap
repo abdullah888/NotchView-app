@@ -1,0 +1,6 @@
+framework module Pods_abdullahGO {
+  umbrella header "Pods-abdullahGO-umbrella.h"
+
+  export *
+  module * { export * }
+}
